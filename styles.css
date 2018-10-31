@@ -19,7 +19,7 @@ dt {
 #sidebar {
     float: right;
     width: 25%;
-    background: lightblue;
+    background: #DCDCDC;
     margin: 20px;
     padding: 10px;
 }
@@ -46,7 +46,10 @@ table, th, td {
 
 /* Background Color */
 body {
-    background: lightskyblue ;
+    background-color: #cccccc ;
+    background-image: url("background-background-image-clear-sky-1054222.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 ul {
