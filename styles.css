@@ -55,4 +55,8 @@ body {
 ul {
     list-style-type: none ;
 }
+
+p {
+    font-size: medium;
+}
 /* Styles for the Advanced Markup assignment. */
